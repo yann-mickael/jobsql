@@ -1,0 +1,1 @@
+DELETE FROM etudiants WHERE id_etudiant=1;
